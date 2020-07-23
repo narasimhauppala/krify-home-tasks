@@ -1,0 +1,7 @@
+Sum Of N Natural numbers
+
+Step:1 > Get the number from user 
+Step:2 > Hold the number in a variable 
+Step:3 > Put a variable for Result.
+Step:4 > loop the user input number until it's equal to i.
+Step:5 > on every iteration store the value of i in result  (result + i) then return.

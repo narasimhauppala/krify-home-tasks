@@ -1,0 +1,7 @@
+Algorithm For Printing N Natural numbers.
+
+Step:1 > Get the number from user 
+Step:2 > Hold the number in number_limit variable 
+Step:3 > loop till number equals to limit_numbers of numbers
+Step:4 > now modules % will give the reminder value, so if the reminder is 0 then it is divisible
+Step:5 > if the value of count is 2 then it is a prime number because number should be exactly divisible by 2 times only (itself and 1)

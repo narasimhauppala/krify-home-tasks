@@ -1,0 +1,7 @@
+Palindrome number algorithm
+
+Step:1 > Get the number from user 
+Step:2 > Hold the number in temporary variable 
+Step:3 > Reverse the number (number % 10)
+Step:4 > Compare the temporary number with reversed number
+Step:5 > If both numbers are same, print palindrome number else will print not palindrome
